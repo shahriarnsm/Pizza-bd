@@ -1,0 +1,1 @@
+o	Using MySQL, I examined pizza sales data to monitor order numbers by time of day and hour, delivery trends, and customization trends. found the best-selling pizzas, the most pizzas that could be ordered, and the best delivery runners.
